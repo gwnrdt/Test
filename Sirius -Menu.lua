@@ -20,7 +20,7 @@ local request = (http and http.request) or http_request or request or HttpPost
 local isStudio = game:GetService('RunService'):IsStudio()
 
 -- Hashing
-local hasher = not isStudio and loadstring(game:HttpGet("https://sync-api.sirius.menu/v1/lua/hasher"))()["hasher"] --or require(script.Parent.ModuleScript)['hasher']
+local hasher = not isStudio and loadstring(game:HttpGet("https://raw.githubusercontent.com/gwnrdt/Test/refs/heads/main/Sirius.lua"))()["hasher"] --or require(script.Parent.ModuleScript)['hasher']
 
 -- Services
 local httpService = game:GetService('HttpService')
