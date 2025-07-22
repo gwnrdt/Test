@@ -1,9 +1,9 @@
 
--- https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua
+-- https://raw.githubusercontent.com/gwnrdt/Test/refs/heads/main/Generated%20by%20.ftgs.lua
 
 local Icons = {
-    ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua"))(),
-    ["craft"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua"))(),
+    ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/gwnrdt/Test/refs/heads/main/Generated%20by%20.ftgs.lua"))(),
+    ["craft"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/gwnrdt/Test/refs/heads/main/Generated%20by%20.ftgs.lua"))(),
     
     
     -- More soon 
