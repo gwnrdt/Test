@@ -97,7 +97,7 @@ if tonumber(game.PlaceId) == tonumber(79546208627805) then
 		end
 		if Frame:FindFirstChild("TextLabel2") then
 			local TextLabel2 = Frame:FindFirstChild("TextLabel2")
-			TextLabel2.Text = "DYHUB (dsc.gg/dyhub)"
+			TextLabel2.Text = ""
 			TextLabel2.Visible = true
 			TextLabel2.TextColor3 = Color3.new(1, 1, 1)
 		end
